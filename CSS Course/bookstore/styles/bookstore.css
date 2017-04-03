@@ -1,0 +1,29 @@
+/* Each Book is in a section*/
+section {
+border:2px solid maroon;
+padding:5px;
+margin-bottom:5px;
+color:maroon;
+
+}
+
+h1 {
+font-family:georgia;
+margin:0;
+
+}
+h2 {
+margin:0;
+
+}
+p {
+font-family:helvetica;
+
+}
+.onSale {
+background-color:yellow;
+}
+
+#monthlyBestseller {
+font-size =:18px;
+}
